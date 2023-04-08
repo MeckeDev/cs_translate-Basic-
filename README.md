@@ -13,7 +13,7 @@ To add a Launch Option you have to:
 - go to your Steam Library
 - right Click on CSGO
 - Properties
-- General
+- General  
 and there should be the Option for Launch-Options
 
 ![image](https://user-images.githubusercontent.com/43956685/230714164-6745cc0b-43e2-437c-bf9a-1785df1a44aa.png)
