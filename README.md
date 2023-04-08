@@ -1,8 +1,8 @@
 # Basic Version of the Chat-Translator for CSGO and CS2
-This Tool will translate all your Chatt-Messages to your desired Language
+This Tool will translate all your Chat-Messages to your desired Language
 
 ## Setup
-You can set your Language inside the settings.json File
+You can set your Language inside the settings.json File  
 Find your Code with the List of Languages inside the language.json
 
 add the following Line to your Launch Options:
