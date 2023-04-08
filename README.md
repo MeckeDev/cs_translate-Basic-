@@ -18,5 +18,5 @@ and there should be the Option for Launch-Options
 
 ![image](https://user-images.githubusercontent.com/43956685/230714164-6745cc0b-43e2-437c-bf9a-1785df1a44aa.png)
 
-You will also need ![Python3](https://www.python.org/downloads/) installed on your PC
+You will also need [Python3](https://www.python.org/downloads/) installed on your PC
 if you have Python and the Launch Option you have to start the Game and if your Game has loaded you can run the start.bat
